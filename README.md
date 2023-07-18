@@ -1,6 +1,8 @@
 # UTAGL_SupervisedLearningClassification
 Supervised Learning Classification focuses on leveraging data to build ML Classification models which predict classification labels for unseen data.  Focus of this repository is logistic regression and decision trees. 
 
+Link to Jupyter notebook: https://github.com/kwajpaige/UTAGL_SupervisedLearningClassification/blob/main/PaigeSingleton_SupervisedLearningClassificationPersonalLoanCampaign072022.ipynb
+
 ## Background
 AllLife Bank is a US bank that has a growing customer base. The majority of these customers are liability customers (depositors) with varying sizes of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans. In particular, the management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors).
 
